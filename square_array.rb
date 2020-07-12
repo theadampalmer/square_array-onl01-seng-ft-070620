@@ -1,7 +1,7 @@
 
-
-def square_array
-  numbers = [1,2,3]
-  numbers.each do |array|
-    Puts "Stop hitting yourself #{array}!"
+def square_array(array)
+  array.each do |num|
+     num ** 2
+     new_array[]
+   end
 end
